@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+set_a/
+.ipynb_checkpoints/
+INF393-T1/
+*.csv
+Enunciado_T1.ipynb
+
